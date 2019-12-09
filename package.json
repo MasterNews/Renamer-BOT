@@ -1,7 +1,12 @@
 {
-  "name": "projet",
-  "version": "1.0.0",
-  "main": "clear",
-  "repository": "c",
-  "license": "MIT"
+  "name": "Renamer BOT",
+  "version": "0.1.0",
+  "main": "main.js",
+  "repository": "https://github.com/MasterNews/Renamer-BOT",
+  "license": "MIT",
+  "description": "Allow to make a system of rename request, sending in a secret channel or to a user.",
+  "author": "Master News <redacchief.masternews@gmail.com>",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
 }
